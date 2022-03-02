@@ -1,4 +1,4 @@
-export default [
+const Data = [
   {
     title: "Mount Fuji",
     location: "Japan",
@@ -10,7 +10,7 @@ export default [
     imageUrl: "fuji.png",
   },
   {
-    title: "Sydeny Opera House",
+    title: "Sydney Opera House",
     location: "Australia",
     googleMapsUrl: "https://goo.gl/maps/CiNgKyDBdwXvmtRo6",
     startDate: "27 May, 2021",
@@ -30,3 +30,4 @@ export default [
     imageUrl: "norway.png",
   },
 ];
+export default Data;
