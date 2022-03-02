@@ -9,6 +9,7 @@
   width: auto;
   height: 55px;
   background-color: #f55a5a;
+  display: flex;
 }
 .globe {
   width: 24px;
@@ -25,4 +26,12 @@
   letter-spacing: -0.075em;
   color: #ffffff;
   margin-left: 7px;
+  margin-top: 20px;
+}
+
+.Content {
+  width: auto;
+  height: 649px;
+  background-color: #ffffff;
+  border: 3px solid blue;
 }
